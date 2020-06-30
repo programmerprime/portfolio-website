@@ -30,3 +30,17 @@ section {
     height: 600px;
 }
 
+.buttonlink {
+    padding: 15px 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(to right, mediumseagreen, darkcyan);
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.buttonlink:hover {
+    background-image: linear-gradient(to right, indianred, orange);
+}
+
